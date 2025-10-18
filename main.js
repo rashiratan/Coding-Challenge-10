@@ -89,3 +89,5 @@ buyButton.addEventListener("click", () =>{
 updateDropdown();
 
 //task 5 skipped
+
+//ensuring file is saved okay
